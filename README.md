@@ -74,4 +74,8 @@ pipeline can be run against your own data of the same format.
 - ADHD group assignment used ASRS-v1.1 Part A self-report screening, not clinical
   diagnosis.
 - Sample size (N=19) was underpowered for the hypothesised effect sizes; results
+<<<<<<< HEAD
   should be read as directional rather than confirmatory (see thesis Discussion).
+=======
+  should be read as directional rather than confirmatory (see thesis Discussion).
+>>>>>>> 7bbdebabcaee477843e78bfcb0e537f114b609a7
