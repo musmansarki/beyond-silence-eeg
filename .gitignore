@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Raw and generated data — not tracked (large files, participant data)
+eeg_data/
+data/
+block_epochs/
+features/
+results/
+eeg_features/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# PsychoPy logs
+*.log
+*.psydat
